@@ -1,0 +1,33 @@
+{
+  "name": "stopprocastinating",
+  "version": "1.0.0",
+  "description": "A tool to help people named Peter to stop procastinating",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hannah-Ellis-Ten10/StopProcastinating.git"
+  },
+  "keywords": [
+    "Procastinating",
+    "Peter",
+    "node",
+    "typescript"
+  ],
+  "author": "Hannah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hannah-Ellis-Ten10/StopProcastinating/issues"
+  },
+  "homepage": "https://github.com/Hannah-Ellis-Ten10/StopProcastinating#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "@types/play-sound": "^1.1.0",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "play-sound": "^1.1.5"
+  }
+}
